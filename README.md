@@ -1,4 +1,4 @@
-![logo](https://github.com/Novaz28/Novaz28/blob/main/Thurini.png)
+![logo](https://github.com/Novaz28/Novaz28/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Thurini Samarathunge</h1>
 <h3 align="center">I am a Mechanical Engineering Undergraduate at the Faculty of Engineering, University of Peradeniya</h3>
 <img align="right" alt="Engineer" width="400" src="https://i.pinimg.com/originals/c8/a6/2c/c8a62c3f14fdf027de13e1755ddd0ec6.gif" >
