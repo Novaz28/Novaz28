@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Wind Patterns, VAWT types, and Blade shapes**
 
-- 📝 I regularly write articles on [Astronomy](Astronomy)
+- 📝 I regularly write articles on [Astronomy](https://github.com/Novaz28/Astronomy)
 
 - 💬 Ask me about **Mechanical Engineering**
 
