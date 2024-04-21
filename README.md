@@ -27,11 +27,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://github.com/UoP-ME325-2024/Team-EcoMech/blob/main/images/ANSYS_logo_without-blur.png" alt="ansys" width="70" height="40"/> <img src="https://github.com/UoP-ME325-2024/Team-EcoMech/blob/main/images/SolidWorks_Logo.svg.png" alt="solidworks" width="100" height="40"/> <img src="https://github.com/UoP-ME325-2024/Team-EcoMech/blob/main/images/autodesk-logo-autocad-background-process-computer-program-symbol-drafter-red-triangle-png-clipart-removebg-preview.png" alt="autocad" width="40" height="40"/><img src="https://github.com/Novaz28/images/blob/main/Adobe-Photoshop-Logo-2015-2019.png" alt="photoshop" width="70" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novaz28&layout=compact)
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=novaz28&show_icons=true&locale=en" alt="novaz28" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novaz28&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novaz28&" alt="novaz28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=novaz28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novaz28&theme=tokyonight" alt="mystreak"/>
 </p>
